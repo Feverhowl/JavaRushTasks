@@ -10,6 +10,7 @@ target/
 *.info
 *.properties
 *.jar
+.DS_Store
 
 /JavaRushPlugin.properties
 /Instruction.png
